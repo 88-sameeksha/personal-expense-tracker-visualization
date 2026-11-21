@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keep generated project outputs if you want to showcase them.
+# Uncomment these if you prefer not to track generated files:
+# outputs/charts/
