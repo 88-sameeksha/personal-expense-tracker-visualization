@@ -1,0 +1,11 @@
+date,category,amount,payment_method,description
+2026-11-01,Food,150,UPI,Lunch
+2026-11-02,Transport,80,Cash,Bus fare
+2026-11-03,Education,500,UPI,Study material
+2026-11-04,Shopping,700,Card,Clothes
+2026-11-05,Food,200,UPI,Dinner
+2026-11-06,Bills,450,Net Banking,Internet bill
+2026-11-07,Entertainment,250,UPI,Movie
+2026-11-08,Transport,100,Cash,Auto fare
+2026-11-09,Food,180,UPI,Snacks
+2026-11-10,Education,350,Card,Books
