@@ -1,0 +1,37 @@
+PERSONAL EXPENSE TRACKER - SUMMARY REPORT
+================================================
+Transactions analyzed: 10
+Total expenses: Rs. 2,960.00
+Average transaction: Rs. 296.00
+Average daily spending: Rs. 296.00
+Highest spending category: Education
+Latest month analyzed: 2026-11
+Latest month spending: Rs. 2,960.00
+
+BUDGET SUMMARY
+Monthly income assumption: Rs. 12,000.00
+Monthly budget assumption: Rs. 9,000.00
+Latest month budget status: Within budget
+Budget remaining (+) / exceeded (-): Rs. 6,040.00
+
+CATEGORY BREAKDOWN
+     category  amount  share_percent
+    Education     850          28.72
+     Shopping     700          23.65
+         Food     530          17.91
+        Bills     450          15.20
+Entertainment     250           8.45
+    Transport     180           6.08
+
+MONTHLY BREAKDOWN
+  month  amount
+2026-11    2960
+
+PAYMENT METHOD BREAKDOWN
+payment_method  amount
+           Upi    1280
+          Card    1050
+   Net Banking     450
+          Cash     180
+
+Note: This report uses manually entered or synthetic data.
